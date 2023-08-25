@@ -1,16 +1,16 @@
-# Interaction-Graphs-of-Cerebrovascular-Tone
-Raw interactions graphs of CVT regulation, for editing and community addition.
+# Title
+Description 
 
 The current two figures being maintainted are:
 * Figure 1. presents neurovascular coupling and cerebral autoregulation (~arteriole level)
   
-|<img src='https://github.com/ABI-Animus-Laboratory/Interaction-Graphs-of-Cerebrovascular-Tone/blob/main/images/NVC_CA_Mechanisms.png' width='200'>|
+|<img src='https://github.com/ABI-Animus-Laboratory/Blank/blob/main/images/NVC_CA_Mechanisms.png' width='200'>|
 |:--:| 
 | *Figure 1* |
 
 * Figure 2. presents reactivity due to CO2 (!capillary level)
   
-|<img src='https://github.com/ABI-Animus-Laboratory/Interaction-Graphs-of-Cerebrovascular-Tone/blob/main/images/CVR_Mechanisms.png' width='200'>|
+|<img src='https://github.com/ABI-Animus-Laboratory/Blank/blob/main/images/CVR_Mechanisms.png' width='200'>|
 |:--:| 
 | *Figure 2* |
 
