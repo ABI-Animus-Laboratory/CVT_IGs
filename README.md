@@ -16,5 +16,4 @@ Please reach out to Sergio Dempsey (sdem348@aucklanduni.ac.nz) to register inter
 ## Acknowledgements
 If you found the original static interaction graphs helpful, please cite our work:
 
-Dempsey S., Argus F., Maso Talou G.D., Safaei S., (2024) An Interaction Graph Approach To Gain New Insights Into Mechanisms That 
-Modulate Cerebrovascular Tone. $\textit{Nature Communications Biology}$, 2024, X,X doi:XXXXX
+Dempsey, S., Argus, F., Maso Talou, G.D. et al. An interaction graph approach to gain new insights into mechanisms that modulate cerebrovascular tone. Commun Biol 7, 404 (2024). https://doi.org/10.1038/s42003-024-06064-1
